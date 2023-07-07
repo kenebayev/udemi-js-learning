@@ -19,6 +19,10 @@
 
 //«git add -A» добавить все файлы в репрозиторий.
 
-//«git commite -a -m"ddescription"» — создание контрольной точки с комментарием
+//«git commit -a -m"ddescription"» — создание контрольной точки с комментарием
 
-//«git log»
+//«git log» — показать про коммиты. (Выводящуюся инфу можно оптимизировать)
+
+//«git remote add origin https://github.com/kenebayev/udemi-js-learning.git» связать локальный репрозиторий с репрозиторием на гитхабе.
+
+//«git push -u origin main»
