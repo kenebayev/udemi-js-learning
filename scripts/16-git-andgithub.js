@@ -25,4 +25,4 @@
 
 //«git remote add origin https://github.com/kenebayev/udemi-js-learning.git» связать локальный репрозиторий с репрозиторием на гитхабе.
 
-//«git push -u origin main»
+//«git push -u origin main» — закачать репрозиторий на гитхаб (запушить)
