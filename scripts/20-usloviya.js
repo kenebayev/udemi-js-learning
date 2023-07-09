@@ -22,6 +22,7 @@ if (num < 49) {
 
 (num === 50) ? console.log('В точку!') : console.log('Error')
 
+//Строгая проверка условиям
 switch (num) {
     case 49:
         console.log('Неверно');

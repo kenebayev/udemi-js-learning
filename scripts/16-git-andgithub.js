@@ -9,7 +9,8 @@
 
 //Показать скрытые файлы и папки «shift+command+.»
 
-//Представиться «git cinfig --local user.name "JohnDoe"»
+//Представиться
+//«git config --local user.name "JohnDoe"»
 //«git config --local user.email example@mail.com»
 //«--local» значит юзер будет прописан только в локальном проекте
 //«--global» юзер будет глобально во всех проектах.
